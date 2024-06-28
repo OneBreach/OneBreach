@@ -5,8 +5,6 @@
 
 - Back-end project **Laravel, PHP, MySQL**
 
-- 🌱 I’m currently learning **Ethical Hacking**
-
 - Front-end project **Next, Javascript**
 
 - Full-stack project **Next, Javascript, Mysql ect.**
