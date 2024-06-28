@@ -2,7 +2,6 @@
 <h3 align="center">Currently doing the Software Developer course</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onebreach" alt="onebreach" /></a> </p>
 
 - Back-end project **Laravel, PHP, MySQL**
 
