@@ -1,7 +1,6 @@
 <h1 align="center">Sup 👋, I'm OneBreach</h1>
 <h3 align="center">Currently doing the Software Developer course</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onebreach&label=Profile%20views&color=0e75b6&style=flat" alt="onebreach" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onebreach" alt="onebreach" /></a> </p>
 
