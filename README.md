@@ -1,6 +1,6 @@
 <h1 align="center">Sup 👋, I'm Milan</h1>
 <h3 align="center">Currently doing the Software Developer course</h3>
-<h3>I'm still learing so much</h3>
+<h4 align="center">I'm still learing so much</h4>
 
 Projects in the past:
 - Back-end project **Laravel, PHP, MySQL** 
