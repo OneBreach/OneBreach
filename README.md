@@ -6,6 +6,7 @@ Projects in the past:
 - Back-end project **Laravel, PHP, MySQL** 
 - Front-end project **Next, Javascript**
 - Full-stack project **Next, Javascript, Mysql ect.**
+- Full-stack project **Next, Nest**
   
 
 - 📫 How to reach me **Github**
